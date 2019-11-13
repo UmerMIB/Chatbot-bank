@@ -1,0 +1,180 @@
+{
+  "id": "59861163-cca4-4dd6-aafd-44608d747929",
+  "name": "Default Fallback Intent",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "input.unknown",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "tr",
+          "speech": [
+            "Anlayamadım. Tekrar söyleyebilir misin?",
+            "Ne dediğini duyamadım. Tekrar söyler misin?",
+            "Pardon, tekrar eder misin?",
+            "Pardon, tekrar söyleyebilir misin?",
+            "Tekrar söyleyebilir misin?",
+            "Maalesef, anlayamadım.",
+            "Pardon, ne demiştin?",
+            "Bir daha söyler misin?",
+            "Ne dedin?",
+            "Tekrar eder misin?",
+            "Anlayamadım.",
+            "Duyamadım."
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "da",
+          "speech": [
+            "Det forstod jeg ikke. Prøv at sige det igen.",
+            "Det fik jeg ikke fat i. Prøv at sige det igen.",
+            "Det forstod jeg ikke. Prøv at gentage det.",
+            "Det hørte jeg ikke. Prøv at sige det igen.",
+            "Prøv at sige det igen.",
+            "Det forstod jeg ikke.",
+            "Det hørte jeg ikke. Hvad sagde du?",
+            "Vil du gentage det?",
+            "Hvad sagde du?",
+            "Prøv at sige det igen.",
+            "Det forstod jeg ikke.",
+            "Det fik jeg ikke fat i."
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "es",
+          "speech": [
+            "Ups, no he entendido a que te refieres.",
+            "¿Podrías repetirlo, por favor?",
+            "¿Disculpa?",
+            "¿Decías?",
+            "¿Cómo?"
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "fr",
+          "speech": [
+            "J\u0027ai du mal à comprendre cette question.",
+            "J\u0027ai mal compris votre demande.",
+            "Je n\u0027ai pas saisi ce que vous avez dit.",
+            "Je crois que je ne vous suis pas.",
+            "Je ne comprends pas de quoi vous me parlez."
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "it",
+          "speech": [
+            "Non penso di seguirti. Potresti ripetere?",
+            "Potresti dirlo ancora una volta?",
+            "Potresti essere più specifico?",
+            "Non ho capito bene. Potresti ripetere?",
+            "Non ti ho sentito bene. Puoi ripetere?"
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "pt-br",
+          "speech": [
+            "Lamento, mas não compreendi.",
+            "Desculpe, mas não compreendi.",
+            "Infelizmente, não captei o que deseja.",
+            "Não consegui compreender, desculpe."
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "zh-hk",
+          "speech": [
+            "對唔住，我聽唔明你嘅問題。",
+            "我好似誤解咗你嘅說話。",
+            "我唔係聽得好清楚你講嘅最後幾隻字。",
+            "我搞唔清你嘅意思。",
+            "我聽唔明你嘅說話。"
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "pt",
+          "speech": [
+            "Vai-me desculpar, mas não percebi a pergunta.",
+            "Peço desculpa, mas não percebi muito bem a sua pergunta.",
+            "Infelizmente, essa foi uma pergunta que não percebi bem.",
+            "Desculpe, mas não entendi a sua questão."
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "ko",
+          "speech": [
+            "마지막에 말씀을 잘 못 이해 한것 같아요.",
+            "방금 하신 말씀을 잘 못 알아들었어요.",
+            "죄송해요. 다시 들려 주실래요?",
+            "제가 제대로 이해하고 있는지 잘 모르겠어요.",
+            "제가 제대로 이해하지 못한것 같아요. 죄송해요.",
+            "조금 헷갈리는데요."
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "ru",
+          "speech": [
+            "Не совсем понимаю, о чём ты.",
+            "Вот эта последняя фраза мне не ясна.",
+            "А вот это не совсем понятно.",
+            "Можешь сказать то же самое другими словами?",
+            "Вот сейчас я тебя совсем не понимаю.",
+            "Попробуй, пожалуйста, выразить свою мысль по-другому."
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "de",
+          "speech": [
+            "Ich verstehe deine Frage leider nicht.",
+            "Entschuldige bitte, ich habe deine Frage nicht verstanden.",
+            "Ich bin nicht so sicher, ob ich dich richtig verstanden habe.",
+            "Leider kann ich nicht verstehen, was du von mir möchtest.",
+            "Kannst du das noch mal anders formulieren?"
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "hi",
+          "speech": [
+            "मुझे समझ नहीं आया. क्या आप अपनी बात दोहरा सकते हैं?",
+            "आपने क्या कहा, मुझे समझ नहीं आया. फिर से कहें?",
+            "माफ़ करें, क्या आप अपनी बात दोहरा सकते हैं?",
+            "माफ़ करें, क्या आप अपनी बात फिर से कह सकते हैं?",
+            "क्या आप अपनी बात दोहरा सकते हैं?",
+            "माफ़ करें, मुझे समझ नहीं आया|",
+            "माफ़ करें, क्या कहा आपने?",
+            "एक बार फिर से कह सकते हैं?",
+            "क्या कहा आपने?",
+            "एक बार फिर से कहिए?",
+            "मुझे समझ नहीं आया|"
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "I didn\u0027t understand what you said , I can just book hotel and can show reservations"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": true,
+  "events": []
+}

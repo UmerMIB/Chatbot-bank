@@ -1,0 +1,518 @@
+[
+  {
+    "id": "8449d2e3-b92f-48a3-9e2f-2039f1494438",
+    "data": [
+      {
+        "text": "distribute",
+        "alias": "operation",
+        "meta": "@operation",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "40",
+        "alias": "number1",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " into ",
+        "userDefined": false
+      },
+      {
+        "text": "5",
+        "alias": "number2",
+        "meta": "@sys.number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "714a797f-0034-4ceb-8f07-74df8db05ed7",
+    "data": [
+      {
+        "text": "result of ",
+        "userDefined": false
+      },
+      {
+        "text": "division",
+        "alias": "operation",
+        "meta": "@operation",
+        "userDefined": false
+      },
+      {
+        "text": " of ",
+        "userDefined": false
+      },
+      {
+        "text": "4",
+        "alias": "number1",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " and ",
+        "userDefined": false
+      },
+      {
+        "text": "3",
+        "alias": "number2",
+        "meta": "@sys.number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "bde644f6-cc34-45b3-9af4-828283030538",
+    "data": [
+      {
+        "text": "multiplication",
+        "alias": "operation",
+        "meta": "@operation",
+        "userDefined": false
+      },
+      {
+        "text": " of ",
+        "userDefined": false
+      },
+      {
+        "text": "4",
+        "alias": "number1",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " and ",
+        "userDefined": false
+      },
+      {
+        "text": "3",
+        "alias": "number2",
+        "meta": "@sys.number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3b819762-05de-431d-a72f-60965800dcf6",
+    "data": [
+      {
+        "text": "decrement",
+        "alias": "operation",
+        "meta": "@operation",
+        "userDefined": false
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "7",
+        "alias": "number1",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " of ",
+        "userDefined": false
+      },
+      {
+        "text": "3",
+        "alias": "number2",
+        "meta": "@sys.number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "084ffa95-5ee4-4268-9932-601d9ec2b896",
+    "data": [
+      {
+        "text": "decrease",
+        "alias": "operation",
+        "meta": "@operation",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "5",
+        "alias": "number1",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " with ",
+        "userDefined": false
+      },
+      {
+        "text": "3",
+        "alias": "number2",
+        "meta": "@sys.number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6811b63a-6d53-4871-b5c4-2d564f6cc1a6",
+    "data": [
+      {
+        "text": "subtraction",
+        "alias": "operation",
+        "meta": "@operation",
+        "userDefined": false
+      },
+      {
+        "text": " of ",
+        "userDefined": false
+      },
+      {
+        "text": "4",
+        "alias": "number1",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " and ",
+        "userDefined": false
+      },
+      {
+        "text": "4",
+        "alias": "number2",
+        "meta": "@sys.number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4622d4f3-da64-4ae5-b303-309b2463aa7a",
+    "data": [
+      {
+        "text": "4",
+        "alias": "number1",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "plus",
+        "alias": "operation",
+        "meta": "@operation",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "3",
+        "alias": "number2",
+        "meta": "@sys.number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e97a4c27-34cc-49ef-9dcb-a6c9f6dedc84",
+    "data": [
+      {
+        "text": "make ",
+        "userDefined": false
+      },
+      {
+        "text": "increment",
+        "alias": "operation",
+        "meta": "@operation",
+        "userDefined": false
+      },
+      {
+        "text": " of ",
+        "userDefined": false
+      },
+      {
+        "text": "4",
+        "alias": "number1",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " with ",
+        "userDefined": false
+      },
+      {
+        "text": "3",
+        "alias": "number2",
+        "meta": "@sys.number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c164f9ba-9bb0-43a0-989a-da34539a6057",
+    "data": [
+      {
+        "text": "difference",
+        "alias": "operation",
+        "meta": "@operation",
+        "userDefined": true
+      },
+      {
+        "text": " of ",
+        "userDefined": false
+      },
+      {
+        "text": "4",
+        "alias": "number1",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " and ",
+        "userDefined": false
+      },
+      {
+        "text": "2",
+        "alias": "number2",
+        "meta": "@sys.number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5e6d8753-624c-4c80-9fd2-073016f724bb",
+    "data": [
+      {
+        "text": "product",
+        "alias": "operation",
+        "meta": "@operation",
+        "userDefined": false
+      },
+      {
+        "text": " of ",
+        "userDefined": false
+      },
+      {
+        "text": "4",
+        "alias": "number1",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " and ",
+        "userDefined": false
+      },
+      {
+        "text": "4",
+        "alias": "number2",
+        "meta": "@sys.number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d0c439b3-31e1-4442-8dbe-889968a89dfa",
+    "data": [
+      {
+        "text": "add",
+        "alias": "operation",
+        "meta": "@operation",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "5",
+        "alias": "number1",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " and ",
+        "userDefined": false
+      },
+      {
+        "text": "4",
+        "alias": "number2",
+        "meta": "@sys.number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "167e1860-717c-4ab8-8cd2-c6ee3fb4338c",
+    "data": [
+      {
+        "text": "divide",
+        "alias": "operation",
+        "meta": "@operation",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "4",
+        "alias": "number1",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " with ",
+        "userDefined": false
+      },
+      {
+        "text": "5",
+        "alias": "number2",
+        "meta": "@sys.number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "dcb0dd73-d397-4c19-a2e2-2d4d3b90d47b",
+    "data": [
+      {
+        "text": "subtract",
+        "alias": "operation",
+        "meta": "@operation",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "4",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " and ",
+        "userDefined": false
+      },
+      {
+        "text": "3",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "9803231c-0a50-425c-89a4-8e902c426b79",
+    "data": [
+      {
+        "text": "multiply",
+        "alias": "operation",
+        "meta": "@operation",
+        "userDefined": false
+      },
+      {
+        "text": " of ",
+        "userDefined": false
+      },
+      {
+        "text": "4",
+        "alias": "number1",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " and ",
+        "userDefined": false
+      },
+      {
+        "text": "3",
+        "alias": "number2",
+        "meta": "@sys.number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1bd96e4b-7593-47a0-bcb8-e54fdce239af",
+    "data": [
+      {
+        "text": "sum",
+        "alias": "operation",
+        "meta": "@operation",
+        "userDefined": false
+      },
+      {
+        "text": " of ",
+        "userDefined": false
+      },
+      {
+        "text": "3",
+        "alias": "number1",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " and ",
+        "userDefined": false
+      },
+      {
+        "text": "4",
+        "alias": "number2",
+        "meta": "@sys.number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

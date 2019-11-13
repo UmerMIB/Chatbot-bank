@@ -1,0 +1,69 @@
+{
+  "id": "f8fdd94d-5f35-41b4-80a6-f70ebab9217c",
+  "name": "additional-feature",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "additional-feature",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "50706c28-51e2-4b98-866a-2158f86a4fae",
+          "required": false,
+          "dataType": "@operation",
+          "name": "operation",
+          "value": "$operation",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "2e958392-7332-42e0-8289-bdac493bc789",
+          "required": false,
+          "dataType": "@sys.number",
+          "name": "number2",
+          "value": "$number2",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "79db1f94-cab2-4918-82a9-3420e0c1a596",
+          "required": false,
+          "dataType": "@sys.number",
+          "name": "number1",
+          "value": "$number1",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

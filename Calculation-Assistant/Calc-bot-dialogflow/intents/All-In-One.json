@@ -1,0 +1,81 @@
+{
+  "id": "0b476a8b-0173-485d-b3e3-13948ba905b1",
+  "name": "All-In-One",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "operation",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "36e79f4e-3bef-4444-acb3-efdb8ee74f11",
+          "required": true,
+          "dataType": "@sys.number",
+          "name": "number1",
+          "value": "$number1",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "For $operation purpose this bot requires two numbers , please type your first number"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "462cd50f-3911-4f7e-a585-7b624b94ec5c",
+          "required": true,
+          "dataType": "@sys.number",
+          "name": "number2",
+          "value": "$number2",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Cool, you said $number1 is first number , please give me your second number to add"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "6baaaaac-dbb1-41d7-b38d-9196f086c908",
+          "required": false,
+          "dataType": "@operation",
+          "name": "operation",
+          "value": "$operation",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "Something went wrong"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

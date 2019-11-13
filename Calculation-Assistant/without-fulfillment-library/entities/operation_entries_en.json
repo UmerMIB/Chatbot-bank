@@ -1,0 +1,45 @@
+[
+  {
+    "value": "Addition",
+    "synonyms": [
+      "Add",
+      "addition",
+      "+",
+      "increase",
+      "increment",
+      "plus",
+      "sum"
+    ]
+  },
+  {
+    "value": "subtraction",
+    "synonyms": [
+      "subtract",
+      "subtraction",
+      "minus",
+      "decrease",
+      "decrement",
+      "-",
+      "sub"
+    ]
+  },
+  {
+    "value": "multiplication",
+    "synonyms": [
+      "multiplication",
+      "multiply",
+      "*",
+      "product"
+    ]
+  },
+  {
+    "value": "division",
+    "synonyms": [
+      "division",
+      "divide",
+      "distribute",
+      "/",
+      "divider"
+    ]
+  }
+]

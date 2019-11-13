@@ -1,0 +1,68 @@
+{
+  "id": "f4296e1f-f1bc-4f3c-a98e-70d91aa1af21",
+  "name": "Default Welcome Intent",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "input.welcome",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 2,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "Hy! I\u0027m Hotel Booking agent , I can book your hotel and  can show you all bookings",
+          "replies": [
+            "Book Hotel",
+            "Show all bookings"
+          ]
+        },
+        {
+          "type": 2,
+          "platform": "slack",
+          "lang": "en",
+          "title": "Hy! I\u0027m Hotel Booking agent , I can book your hotel and  can show you all bookings",
+          "replies": [
+            "Book Hotel",
+            "Show All Bookings"
+          ]
+        },
+        {
+          "type": "suggestion_chips",
+          "platform": "google",
+          "lang": "en",
+          "suggestions": [
+            {
+              "title": "Book hotel"
+            },
+            {
+              "title": "Show all bookings"
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Hy! I\u0027m Hotel Booking agent , I can book your hotel and  can show you all bookings"
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true,
+        "slack": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "WELCOME"
+    }
+  ]
+}
