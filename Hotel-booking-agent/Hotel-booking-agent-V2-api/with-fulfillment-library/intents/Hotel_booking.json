@@ -1,0 +1,117 @@
+{
+  "id": "6b4fbc15-0a44-4afa-a49a-b7f0c623f32e",
+  "name": "Hotel_booking",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "bookHotel",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "5e33ad9b-aaf0-46b7-b649-ec437315a8d8",
+          "required": true,
+          "dataType": "@sys.given-name",
+          "name": "name",
+          "value": "$name",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "May I have your name please"
+            },
+            {
+              "lang": "en",
+              "value": "Let me know your name"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "ace379ed-48ec-445a-9e09-19c81ef7503d",
+          "required": true,
+          "dataType": "@sys.number",
+          "name": "persons",
+          "value": "$persons",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Book room for how many persons?"
+            },
+            {
+              "lang": "en",
+              "value": "For how many people you want to book a hotel room ?"
+            },
+            {
+              "lang": "en",
+              "value": "How many people you are ?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "5d9d4844-a220-4bd7-974f-888c70f1bf23",
+          "required": true,
+          "dataType": "@sys.email",
+          "name": "email",
+          "value": "$email",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Kindly send me your email for furthur contact"
+            },
+            {
+              "lang": "en",
+              "value": "let me know your email address"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "50c03d42-578d-4b9e-b7a0-b0c8b4a97cbd",
+          "required": true,
+          "dataType": "@RoomType",
+          "name": "roomType",
+          "value": "$roomType",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "What type of room would you like to book (economic or standard or luxury)"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "something went wrong."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

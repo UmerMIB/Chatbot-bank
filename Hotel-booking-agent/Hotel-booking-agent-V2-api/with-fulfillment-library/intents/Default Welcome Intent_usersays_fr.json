@@ -1,0 +1,722 @@
+[
+  {
+    "id": "4340b149-131d-4b42-9a81-c8a5b67f79be",
+    "data": [
+      {
+        "text": "salutations",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "333a4433-e9dc-4b07-b120-6f2c2da96623",
+    "data": [
+      {
+        "text": "rebonjour",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4a800a4e-e770-498a-866f-2d8f09b7bd76",
+    "data": [
+      {
+        "text": "bonjour à toi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "aa033d7b-62bd-4f27-ba87-223abcea66fe",
+    "data": [
+      {
+        "text": "re bonjour",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3bc982cd-c6e6-4d86-8605-a9fb045f1383",
+    "data": [
+      {
+        "text": "allo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8ca822c7-8a88-4fd6-9fae-578126d3c6b2",
+    "data": [
+      {
+        "text": "coucou",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "25913c50-877a-4f95-8787-bd8a861d937d",
+    "data": [
+      {
+        "text": "hé",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "659b478b-b272-497c-87fb-88ab3eaa351c",
+    "data": [
+      {
+        "text": "resalut",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6ff6b1db-a616-4471-a696-98304edc41f7",
+    "data": [
+      {
+        "text": "salut",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3ac07c8e-23bf-44e0-9ca2-5f498215c266",
+    "data": [
+      {
+        "text": "re salut",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "acdc5ce4-39a3-43cb-9aee-bdbd5851b2c9",
+    "data": [
+      {
+        "text": "salut à tous",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "17abad72-8658-47e4-bf93-fbca3a41fdb0",
+    "data": [
+      {
+        "text": "bonjour",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4340b149-131d-4b42-9a81-c8a5b67f79be",
+    "data": [
+      {
+        "text": "salutations",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "333a4433-e9dc-4b07-b120-6f2c2da96623",
+    "data": [
+      {
+        "text": "rebonjour",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4a800a4e-e770-498a-866f-2d8f09b7bd76",
+    "data": [
+      {
+        "text": "bonjour à toi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "aa033d7b-62bd-4f27-ba87-223abcea66fe",
+    "data": [
+      {
+        "text": "re bonjour",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3bc982cd-c6e6-4d86-8605-a9fb045f1383",
+    "data": [
+      {
+        "text": "allo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8ca822c7-8a88-4fd6-9fae-578126d3c6b2",
+    "data": [
+      {
+        "text": "coucou",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "25913c50-877a-4f95-8787-bd8a861d937d",
+    "data": [
+      {
+        "text": "hé",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "659b478b-b272-497c-87fb-88ab3eaa351c",
+    "data": [
+      {
+        "text": "resalut",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6ff6b1db-a616-4471-a696-98304edc41f7",
+    "data": [
+      {
+        "text": "salut",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3ac07c8e-23bf-44e0-9ca2-5f498215c266",
+    "data": [
+      {
+        "text": "re salut",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "acdc5ce4-39a3-43cb-9aee-bdbd5851b2c9",
+    "data": [
+      {
+        "text": "salut à tous",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "17abad72-8658-47e4-bf93-fbca3a41fdb0",
+    "data": [
+      {
+        "text": "bonjour",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4340b149-131d-4b42-9a81-c8a5b67f79be",
+    "data": [
+      {
+        "text": "salutations",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "333a4433-e9dc-4b07-b120-6f2c2da96623",
+    "data": [
+      {
+        "text": "rebonjour",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4a800a4e-e770-498a-866f-2d8f09b7bd76",
+    "data": [
+      {
+        "text": "bonjour à toi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "aa033d7b-62bd-4f27-ba87-223abcea66fe",
+    "data": [
+      {
+        "text": "re bonjour",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3bc982cd-c6e6-4d86-8605-a9fb045f1383",
+    "data": [
+      {
+        "text": "allo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8ca822c7-8a88-4fd6-9fae-578126d3c6b2",
+    "data": [
+      {
+        "text": "coucou",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "25913c50-877a-4f95-8787-bd8a861d937d",
+    "data": [
+      {
+        "text": "hé",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "659b478b-b272-497c-87fb-88ab3eaa351c",
+    "data": [
+      {
+        "text": "resalut",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6ff6b1db-a616-4471-a696-98304edc41f7",
+    "data": [
+      {
+        "text": "salut",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3ac07c8e-23bf-44e0-9ca2-5f498215c266",
+    "data": [
+      {
+        "text": "re salut",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "acdc5ce4-39a3-43cb-9aee-bdbd5851b2c9",
+    "data": [
+      {
+        "text": "salut à tous",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "17abad72-8658-47e4-bf93-fbca3a41fdb0",
+    "data": [
+      {
+        "text": "bonjour",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4340b149-131d-4b42-9a81-c8a5b67f79be",
+    "data": [
+      {
+        "text": "salutations",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "333a4433-e9dc-4b07-b120-6f2c2da96623",
+    "data": [
+      {
+        "text": "rebonjour",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4a800a4e-e770-498a-866f-2d8f09b7bd76",
+    "data": [
+      {
+        "text": "bonjour à toi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "aa033d7b-62bd-4f27-ba87-223abcea66fe",
+    "data": [
+      {
+        "text": "re bonjour",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3bc982cd-c6e6-4d86-8605-a9fb045f1383",
+    "data": [
+      {
+        "text": "allo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8ca822c7-8a88-4fd6-9fae-578126d3c6b2",
+    "data": [
+      {
+        "text": "coucou",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "25913c50-877a-4f95-8787-bd8a861d937d",
+    "data": [
+      {
+        "text": "hé",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "659b478b-b272-497c-87fb-88ab3eaa351c",
+    "data": [
+      {
+        "text": "resalut",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6ff6b1db-a616-4471-a696-98304edc41f7",
+    "data": [
+      {
+        "text": "salut",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3ac07c8e-23bf-44e0-9ca2-5f498215c266",
+    "data": [
+      {
+        "text": "re salut",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "acdc5ce4-39a3-43cb-9aee-bdbd5851b2c9",
+    "data": [
+      {
+        "text": "salut à tous",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "17abad72-8658-47e4-bf93-fbca3a41fdb0",
+    "data": [
+      {
+        "text": "bonjour",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4340b149-131d-4b42-9a81-c8a5b67f79be",
+    "data": [
+      {
+        "text": "salutations",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "333a4433-e9dc-4b07-b120-6f2c2da96623",
+    "data": [
+      {
+        "text": "rebonjour",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4a800a4e-e770-498a-866f-2d8f09b7bd76",
+    "data": [
+      {
+        "text": "bonjour à toi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "aa033d7b-62bd-4f27-ba87-223abcea66fe",
+    "data": [
+      {
+        "text": "re bonjour",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3bc982cd-c6e6-4d86-8605-a9fb045f1383",
+    "data": [
+      {
+        "text": "allo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8ca822c7-8a88-4fd6-9fae-578126d3c6b2",
+    "data": [
+      {
+        "text": "coucou",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "25913c50-877a-4f95-8787-bd8a861d937d",
+    "data": [
+      {
+        "text": "hé",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "659b478b-b272-497c-87fb-88ab3eaa351c",
+    "data": [
+      {
+        "text": "resalut",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6ff6b1db-a616-4471-a696-98304edc41f7",
+    "data": [
+      {
+        "text": "salut",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3ac07c8e-23bf-44e0-9ca2-5f498215c266",
+    "data": [
+      {
+        "text": "re salut",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "acdc5ce4-39a3-43cb-9aee-bdbd5851b2c9",
+    "data": [
+      {
+        "text": "salut à tous",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "17abad72-8658-47e4-bf93-fbca3a41fdb0",
+    "data": [
+      {
+        "text": "bonjour",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

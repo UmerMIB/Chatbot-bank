@@ -1,0 +1,174 @@
+{
+  "id": "f4296e1f-f1bc-4f3c-a98e-70d91aa1af21",
+  "name": "Default Welcome Intent",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "input.welcome",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 2,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "Hy! I\u0027m Hotel Booking agent , I can book your hotel and  can show you all bookings",
+          "replies": [
+            "Book Hotel",
+            "Show all bookings"
+          ]
+        },
+        {
+          "type": 2,
+          "platform": "slack",
+          "lang": "en",
+          "title": "Hy! I\u0027m Hotel Booking agent , I can book your hotel and  can show you all bookings",
+          "replies": [
+            "Book Hotel",
+            "Show All Bookings"
+          ]
+        },
+        {
+          "type": "suggestion_chips",
+          "platform": "google",
+          "lang": "en",
+          "suggestions": [
+            {
+              "title": "Book hotel"
+            },
+            {
+              "title": "Show all bookings"
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Hy! I\u0027m Hotel Booking agent , I can book your hotel and  can show you all bookings"
+        },
+        {
+          "type": 0,
+          "lang": "tr",
+          "speech": [
+            "Merhaba!",
+            "Selam!",
+            "İyi günler!",
+            "Selamlar!"
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "da",
+          "speech": [
+            "Hej!",
+            "Dav!",
+            "Goddag!",
+            "Hejsa!"
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "es",
+          "speech": [
+            "¡Hola!",
+            "¡Hey!",
+            "¡Buenos días!"
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "fr",
+          "speech": [
+            "Salut !",
+            "Bonjour !",
+            "Salutations !",
+            "Bienvenue !"
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "it",
+          "speech": [
+            "Ciao!",
+            "Buongiorno!"
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "pt-br",
+          "speech": [
+            "Olá!",
+            "Oi!"
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "zh-hk",
+          "speech": [
+            "嘿！",
+            "你好！",
+            "嘿！ 好久不見！",
+            "歡迎歸來。",
+            "嘿！歡迎你回來。"
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "pt",
+          "speech": "Olá!"
+        },
+        {
+          "type": 0,
+          "lang": "ko",
+          "speech": [
+            "안녕!",
+            "안녕하세요!"
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "ru",
+          "speech": [
+            "Привет!",
+            "Здравствуй!",
+            "Добрый день!"
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "de",
+          "speech": [
+            "Hallo!",
+            "Guten Tag!",
+            "Ich grüße dich!"
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "hi",
+          "speech": [
+            "नमस्ते!",
+            "नमस्कार!",
+            "आपका दिन शुभ हो!"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "slack": true,
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "WELCOME"
+    }
+  ]
+}

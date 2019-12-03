@@ -1,0 +1,53 @@
+{
+  "id": "a3d1042d-5b21-4d38-96c9-9a329f58b540",
+  "name": "countBookings",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "countBookings",
+      "affectedContexts": [
+        {
+          "name": "Show_all_booking-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "6c49984e-84b8-4f92-9ccd-514fffe2ea6b",
+          "required": true,
+          "dataType": "@password",
+          "name": "password",
+          "value": "$password",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Please enter a password to see all bookings"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "something went wrong"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

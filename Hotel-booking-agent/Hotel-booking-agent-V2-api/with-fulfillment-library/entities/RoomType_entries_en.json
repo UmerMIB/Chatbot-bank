@@ -1,0 +1,27 @@
+[
+  {
+    "value": "Economic",
+    "synonyms": [
+      "Economic",
+      "casual",
+      "chepest",
+      "low cost"
+    ]
+  },
+  {
+    "value": "luxury",
+    "synonyms": [
+      "business class",
+      "luxury",
+      "vip"
+    ]
+  },
+  {
+    "value": "standard",
+    "synonyms": [
+      "moderate",
+      "simple",
+      "standard"
+    ]
+  }
+]
