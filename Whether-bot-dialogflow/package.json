@@ -1,0 +1,26 @@
+{
+  "name": "Whether-bot-dialogflow",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/UmerMIB/Whether-bot-dialogflow.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/UmerMIB/Whether-bot-dialogflow/issues"
+  },
+  "homepage": "https://github.com/UmerMIB/Whether-bot-dialogflow#readme",
+  "dependencies": {
+    "@types/node": "^12.12.14"
+  },
+  "devDependencies": {
+    "typescript": "^3.7.2"
+  }
+}
