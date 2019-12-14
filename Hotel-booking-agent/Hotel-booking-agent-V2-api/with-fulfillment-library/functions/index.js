@@ -60,12 +60,12 @@ exports.dialogflowFirebaseFulfillment = functions.https.onRequest((request, resp
             }))
     }
 
-    function feedBack(agent) {
+    function feedback(agent) {
         let params = agent.parameters;
         return firestore.collection(` FeedBack `).add(params)
             .then(() => {
-                return agent.add(`Your ${params.feedBack} has been recorded. We will try to make better
-                        decision on your ${params.feedBack}. Thank you`);
+                return agent.add(`Your ${params.subject} has been recorded. We will try to make better
+                        decision on your ${params.subject}. Thank you`);
             })
             .catch((e => {
                 console.log(`Error`, e);
@@ -73,12 +73,25 @@ exports.dialogflowFirebaseFulfillment = functions.https.onRequest((request, resp
             }))
     }
 
+    function DefaultFallbackIntent(agent) {
+        // console.log(`query text from library is ${agent.queryText}`);
+        // console.log(`query text request.body is ${request.body.queryResult.queryText}`);
+        return firestore.collection('Invalid statements').add({ "statement": request.body.queryResult.queryText })
+            .then(() => {
+                return agent.add(`I didnot understand what you said I can book hotel
+             and can accept your feedback `)
+            })
+            .catch((e => {
+                console.log('error', e);
+                return agent.add("something went wrong when writing on database")
+            }))
+    }
+
     let intentMap = new Map;
     intentMap.set(`Hotel_booking`, Hotel_booking);
     intentMap.set(`countBookings`, countBookings);
-    intentMap.set(`feedBack`, feedBack);
+    intentMap.set(`feedback`, feedback);
+    intentMap.set(`Default Fallback Intent`, DefaultFallbackIntent);
 
     _agent.handleRequest(intentMap);
 });
-
-
