@@ -14,7 +14,7 @@ exports.dialogflowFirebaseFulfillment = functions.https.onRequest((request, resp
         return firestore.collection(`orders`).add(params)
             .then((d) => {
                 agent.add(`${params.name} your hotel booking request for ${params.roomType} room for ${params.persons} persons
-                        on date ${params.date} for ${params.duration} is forwarded . We will contact you on ${params.email} soon`);
+                        on date ${params.date} for ${params.duration.amount} ${params.duration.unit} is forwarded . We will contact you on ${params.email} soon`);
                 return console.log("save data is : ", d)
             })
             .catch((e => {
