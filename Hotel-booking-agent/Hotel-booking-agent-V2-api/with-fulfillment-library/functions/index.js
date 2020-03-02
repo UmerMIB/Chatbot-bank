@@ -30,8 +30,7 @@ exports.dialogflowFirebaseFulfillment = functions.https.onRequest((request, resp
                 .then((QuerySnapshot) => {
                     var orders = [];
                     QuerySnapshot.forEach((doc) => { orders.push(doc.data()) });
-                    return agent.add(` you have ${orders.length} orders , would you like to see them ?
-                            press yes `);
+                    return agent.add(` you have ${orders.length} orders , would you like to see them ? press yes `);
                 })
                 .catch((e => {
                     console.log(`Error `, e);
@@ -48,8 +47,7 @@ exports.dialogflowFirebaseFulfillment = functions.https.onRequest((request, resp
                 QuerySnapshot.forEach((doc) => { orders.push(doc.data()) });
                 var list = `Here are your orders \n`;
                 list.forEach((eachOrder, index) => {
-                    list += ` \n number ${index + 1} is ${eachOrder.roomType} room for ${eachOrder.persons} persons is ordered by 
-                ${eachOrder.name} contact email is ${eachOrder.email} \n `
+                    list += ` \n number ${index + 1} is ${eachOrder.roomType} room for ${eachOrder.persons} persons is ordered by ${eachOrder.name} contact email is ${eachOrder.email} \n `
                 });
                 return agent.add(` ${list}`);
             })
@@ -63,8 +61,7 @@ exports.dialogflowFirebaseFulfillment = functions.https.onRequest((request, resp
         let params = agent.parameters;
         return firestore.collection(` FeedBack `).add(params)
             .then(() => {
-                return agent.add(`Your ${params.subject} has been recorded. We will try to make better
-                        decision on your ${params.subject}. Thank you`);
+                return agent.add(`Your ${params.subject} has been recorded. We will try to make better decision on your ${params.subject}. Thank you`);
             })
             .catch((e => {
                 console.log(`Error`, e);
@@ -77,8 +74,7 @@ exports.dialogflowFirebaseFulfillment = functions.https.onRequest((request, resp
         // console.log(`query text request.body is ${request.body.queryResult.queryText}`);
         return firestore.collection('Invalid statements').add({ "statement": request.body.queryResult.queryText })
             .then(() => {
-                return agent.add(`I didnot understand what you said I can book hotel
-             and can accept your feedback `)
+                return agent.add(`I didnot understand what you said I can book hotel and can accept your feedback `)
             })
             .catch((e => {
                 console.log('error', e);
