@@ -1,0 +1,29 @@
+.projectDetails {
+  color: navy;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  line-height: 31px;
+}
+
+.projectDetails-img {
+  position: absolute;
+  width: 100%;
+  opacity: 0.3;
+}
+.projectDetails-details {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  margin: 0px 9px;
+  justify-content: center;
+  align-items: center;
+  align-content: center;
+  text-align: center;
+}
+
+.group-members {
+  display: flex;
+  flex-direction: column;
+  text-align: start;
+  justify-content: center;
+}
